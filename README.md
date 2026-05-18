@@ -130,7 +130,7 @@ This project includes a comprehensive **5-chapter IEEE-formatted thesis** coveri
 **Mahmoud Elmalah** — [mahmodcool5@gmail.com](mailto:mahmodcool5@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6382FF?style=flat-square&logo=googlechrome&logoColor=white)](https://mahmodelmalah.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-elmalah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elmalah-633597341)
 
 ## 📝 License
 
